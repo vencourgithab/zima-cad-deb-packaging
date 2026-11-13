@@ -1,0 +1,4 @@
+.zima-deb-work/
+zima-debs/
+*.deb
+SHA256SUMS*
